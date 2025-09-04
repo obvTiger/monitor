@@ -95,7 +95,7 @@ status-website:
   cname: status-ext.wireway.ch
   # baseUrl: /your-repo-name
   logoUrl: https://wireway.ch/assets/img/favicon.png
-  name: Wrreway
+  name: Wireway Services
   introTitle: "**Wireway** is a collection of services"
   introMessage: Server down? No, its you
   navbar:
