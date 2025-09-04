@@ -23,8 +23,12 @@ sites:
   url: https://data.wireway.ch
 - name: objects.eplg.cloud
   url: https://objects.eplg.cloud
+  expectedStatusCodes:
+    - 403
 - name: objects-cf.eplg.cloud
   url: https://objects-cf.eplg.cloud
+  expectedStatusCodes:
+    - 403
 - name: cdn.wireway.ch
   url: https://cdn.wireway.ch
 - name: epilogue.team
@@ -43,8 +47,6 @@ sites:
   url: https://vod-eu.epilogue.video
 - name: eplg.cloud
   url: https://eplg.cloud
-- name: infra-ch-01.eplg.cloud
-  url: https://infra-ch-01.eplg.cloud
 - name: infra-ch-01-controller.eplg.cloud
   url: https://infra-ch-01-controller.eplg.cloud
 - name: eplg.services
@@ -53,6 +55,8 @@ sites:
   url: https://git.eplg.services
 - name: mcss-api.eplg.services
   url: https://mcss-api.eplg.services
+  expectedStatusCodes:
+    - 404
 - name: mcss.eplg.services
   url: https://mcss.eplg.services
 - name: search.eplg.services
@@ -67,8 +71,12 @@ sites:
   url: https://merged.games
 - name: beta-1.merged.games
   url: https://beta-1.merged.games
+  expectedStatusCodes:
+    - 401
 - name: gamma-1.merged.games
   url: https://gamma-1.merged.games
+  expectedStatusCodes:
+    - 401
 - name: ares.merged.games
   url: https://ares.merged.games
 
