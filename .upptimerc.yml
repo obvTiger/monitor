@@ -1,36 +1,91 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: obvTiger # Your GitHub organization or username, where this repository lives
+repo: monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+- name: wireway.ch
+  url: https://wireway.ch
+- name: api.wireway.ch
+  url: https://api.wireway.ch
+- name: pulse.wireway.ch
+  url: https://pulse.wireway.ch
+- name: repiped.wireway.ch
+  url: https://repiped.wireway.ch
+- name: pipedapi.wireway.ch
+  url: https://pipedapi.wireway.ch
+- name: piped.wireway.ch
+  url: https://piped.wireway.ch
+- name: streamshare.wireway.ch
+  url: https://streamshare.wireway.ch
+- name: plausible.wireway.ch
+  url: https://plausible.wireway.ch
+- name: data.wireway.ch
+  url: https://data.wireway.ch
+- name: objects.eplg.cloud
+  url: https://objects.eplg.cloud
+- name: objects-cf.eplg.cloud
+  url: https://objects-cf.eplg.cloud
+- name: cdn.wireway.ch
+  url: https://cdn.wireway.ch
+- name: epilogue.team
+  url: https://epilogue.team
+- name: analytics.epilogue.team
+  url: https://analytics.epilogue.team
+- name: api.epilogue.team
+  url: https://api.epilogue.team
+- name: auth.epilogue.team
+  url: https://auth.epilogue.team
+- name: emojify.epilogue.team
+  url: https://emojify.epilogue.team
+- name: epilogue.video
+  url: https://epilogue.video
+- name: vod-eu.epilogue.video
+  url: https://vod-eu.epilogue.video
+- name: eplg.cloud
+  url: https://eplg.cloud
+- name: infra-ch-01.eplg.cloud
+  url: https://infra-ch-01.eplg.cloud
+- name: infra-ch-01-controller.eplg.cloud
+  url: https://infra-ch-01-controller.eplg.cloud
+- name: eplg.services
+  url: https://eplg.services
+- name: git.eplg.services
+  url: https://git.eplg.services
+- name: mcss-api.eplg.services
+  url: https://mcss-api.eplg.services
+- name: mcss.eplg.services
+  url: https://mcss.eplg.services
+- name: search.eplg.services
+  url: https://search.eplg.services
+- name: gippity.chat
+  url: https://gippity.chat
+- name: dev.gippity.chat
+  url: https://dev.gippity.chat
+- name: kvs.sh
+  url: https://kvs.sh
+- name: merged.games
+  url: https://merged.games
+- name: beta-1.merged.games
+  url: https://beta-1.merged.games
+- name: gamma-1.merged.games
+  url: https://gamma-1.merged.games
+- name: ares.merged.games
+  url: https://ares.merged.games
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status-ext.wireway.ch
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://wireway.ch/assets/img/favicon.png
+  name: Wrreway
+  introTitle: "**Wireway** is a collection of services"
+  introMessage: Server down? No, its you
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://wireway.ch
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
