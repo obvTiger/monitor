@@ -166,19 +166,19 @@
     "url": "https://objects.eplg.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/objects.eplg.cloud.ico",
     "slug": "objects-eplg-cloud",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 639,
-    "timeDay": 606,
-    "timeWeek": 639,
-    "timeMonth": 639,
-    "timeYear": 639,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 630,
+    "timeDay": 596,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-09-05": 0
+      "2025-09-05": 5
     }
   },
   {
