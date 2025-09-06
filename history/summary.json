@@ -173,7 +173,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
-    "timeDay": 615,
+    "timeDay": 644,
     "timeWeek": 632,
     "timeMonth": 632,
     "timeYear": 632,
@@ -239,19 +239,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.epilogue.team.ico",
     "slug": "analytics-epilogue-team",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 585,
     "timeDay": 690,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2025-09-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.epilogue.team",
@@ -421,19 +419,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcss-api.eplg.services.ico",
     "slug": "mcss-api-eplg-services",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 661,
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2025-09-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mcss.eplg.services",
@@ -441,37 +437,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcss.eplg.services.ico",
     "slug": "mcss-eplg-services",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 559,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {
-      "2025-09-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "search.eplg.services",
     "url": "https://search.eplg.services",
     "icon": "https://icons.duckduckgo.com/ip3/search.eplg.services.ico",
     "slug": "search-eplg-services",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 648,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-06": 0
+    }
   },
   {
     "name": "gippity.chat",
