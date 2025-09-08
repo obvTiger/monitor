@@ -79,6 +79,16 @@ sites:
     - 401
 - name: ares.merged.games
   url: https://ares.merged.games
+- name: staging.ziit.app
+  url: https://staging.ziit.app
+- name: ziit.app
+  url: https://ziit.app
+- name: pandadev.net
+  url: https://pandadev.net
+- name: waradu.dev
+  url: https://waradu.dev
+- name: minipandi.net
+  url: https://minipandi.net
 
 workflowSchedule:
   graphs: "0 0 * * *"
