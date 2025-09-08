@@ -83,15 +83,15 @@ sites:
   url: https://staging.ziit.app/login
   expectedStatusCodes:
     - 403
-- name: ziit.app
+- name: ziit.app (external)
   url: https://ziit.app/login
   expectedStatusCodes:
     - 403
-- name: pandadev.net
+- name: pandadev.net (external)
   url: https://pandadev.net
-- name: waradu.dev
+- name: waradu.dev (external)
   url: https://waradu.dev
-- name: minipandi.net
+- name: minipandi.net (external)
   url: https://minipandi.net
 
 workflowSchedule:
