@@ -81,8 +81,12 @@ sites:
   url: https://ares.merged.games
 - name: staging.ziit.app
   url: https://staging.ziit.app/login
+  expectedStatusCodes:
+    - 403
 - name: ziit.app
   url: https://ziit.app/login
+  expectedStatusCodes:
+    - 403
 - name: pandadev.net
   url: https://pandadev.net
 - name: waradu.dev
