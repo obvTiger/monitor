@@ -80,9 +80,9 @@ sites:
 - name: ares.merged.games
   url: https://ares.merged.games
 - name: staging.ziit.app
-  url: https://staging.ziit.app
+  url: https://staging.ziit.app/login
 - name: ziit.app
-  url: https://ziit.app
+  url: https://ziit.app/login
 - name: pandadev.net
   url: https://pandadev.net
 - name: waradu.dev
