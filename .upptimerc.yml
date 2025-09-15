@@ -77,8 +77,6 @@ sites:
   url: https://gamma-1.merged.games
   expectedStatusCodes:
     - 401
-- name: ares.merged.games
-  url: https://ares.merged.games
 - name: staging.ziit.app
   url: https://staging.ziit.app/login
   expectedStatusCodes:
