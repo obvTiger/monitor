@@ -313,19 +313,19 @@
     "url": "https://epilogue.video",
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.video.ico",
     "slug": "epilogue-video",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 472,
-    "timeWeek": 701,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 635,
+    "timeDay": 471,
+    "timeWeek": 675,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-09-18": 1
+      "2025-09-18": 5
     }
   },
   {
