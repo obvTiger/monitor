@@ -1,7 +1,7 @@
 url: https://objects.eplg.cloud
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-25T15:33:17.660Z
+status: up
+code: 403
+responseTime: 1021
+lastUpdated: 2025-09-25T15:49:44.375Z
 startTime: 2025-09-04T12:07:16.420Z
 generator: Upptime <https://github.com/upptime/upptime>
