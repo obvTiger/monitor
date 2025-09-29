@@ -1,7 +1,7 @@
 url: https://mcss-api.eplg.services
-status: up
-code: 404
-responseTime: 636
-lastUpdated: 2025-09-28T23:09:14.191Z
+status: down
+code: 502
+responseTime: 1462
+lastUpdated: 2025-09-29T19:55:04.955Z
 startTime: 2025-09-04T12:07:35.380Z
 generator: Upptime <https://github.com/upptime/upptime>
