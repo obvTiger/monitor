@@ -1,7 +1,7 @@
 url: https://pulse.wireway.ch
-status: down
-code: 503
-responseTime: 178
-lastUpdated: 2025-09-30T15:08:51.250Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2025-09-30T15:26:50.161Z
 startTime: 2025-09-04T12:07:10.157Z
 generator: Upptime <https://github.com/upptime/upptime>
