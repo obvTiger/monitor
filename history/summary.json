@@ -40,19 +40,19 @@
     "url": "https://pulse.wireway.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pulse.wireway.ch.ico",
     "slug": "pulse-wireway-ch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 341,
-    "timeWeek": 533,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 548,
+    "timeDay": 350,
+    "timeWeek": 515,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 18
     }
   },
   {
