@@ -532,19 +532,19 @@
     "url": "https://kvs.sh",
     "icon": "https://icons.duckduckgo.com/ip3/kvs.sh.ico",
     "slug": "kvs-sh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 345,
-    "timeWeek": 296,
-    "timeMonth": 284,
-    "timeYear": 284,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 280,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 5
     }
   },
   {
