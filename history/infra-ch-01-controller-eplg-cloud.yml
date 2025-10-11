@@ -1,7 +1,7 @@
 url: https://infra-ch-01-controller.eplg.cloud
-status: down
-code: 500
-responseTime: 772
-lastUpdated: 2025-10-11T14:12:34.304Z
+status: up
+code: 200
+responseTime: 992
+lastUpdated: 2025-10-11T14:26:26.189Z
 startTime: 2025-09-04T12:07:32.173Z
 generator: Upptime <https://github.com/upptime/upptime>
