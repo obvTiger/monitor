@@ -367,19 +367,19 @@
     "url": "https://infra-ch-01-controller.eplg.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/infra-ch-01-controller.eplg.cloud.ico",
     "slug": "infra-ch-01-controller-eplg-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 1493,
-    "timeWeek": 1476,
-    "timeMonth": 1473,
-    "timeYear": 1428,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1419,
+    "timeDay": 1326,
+    "timeWeek": 1422,
+    "timeMonth": 1460,
+    "timeYear": 1419,
     "dailyMinutesDown": {
-      "2025-10-11": 0
+      "2025-10-11": 14
     }
   },
   {
