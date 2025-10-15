@@ -468,19 +468,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.eplg.services.ico",
     "slug": "search-eplg-services",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 783,
     "timeDay": 610,
     "timeWeek": 693,
     "timeMonth": 796,
     "timeYear": 783,
-    "dailyMinutesDown": {
-      "2025-10-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gippity.chat",
