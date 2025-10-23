@@ -247,7 +247,7 @@
     "time": 538,
     "timeDay": 447,
     "timeWeek": 557,
-    "timeMonth": 514,
+    "timeMonth": 522,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-10-10": 87,
@@ -422,15 +422,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcss-api.eplg.services.ico",
     "slug": "mcss-api-eplg-services",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 525,
     "timeDay": 415,
     "timeWeek": 551,
-    "timeMonth": 538,
+    "timeMonth": 541,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-10-10": 87,
@@ -445,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcss.eplg.services.ico",
     "slug": "mcss-eplg-services",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.77%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 492,
     "timeDay": 548,
     "timeWeek": 607,
-    "timeMonth": 475,
+    "timeMonth": 476,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2025-10-10": 87,
@@ -488,9 +488,9 @@
     "url": "https://gippity.chat",
     "icon": "https://icons.duckduckgo.com/ip3/gippity.chat.ico",
     "slug": "gippity-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -499,16 +499,18 @@
     "timeWeek": 363,
     "timeMonth": 360,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "dev.gippity.chat",
     "url": "https://dev.gippity.chat",
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -517,7 +519,9 @@
     "timeWeek": 271,
     "timeMonth": 293,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "kvs.sh",
