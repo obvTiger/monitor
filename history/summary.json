@@ -488,19 +488,19 @@
     "url": "https://gippity.chat",
     "icon": "https://icons.duckduckgo.com/ip3/gippity.chat.ico",
     "slug": "gippity-chat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 168,
-    "timeWeek": 363,
-    "timeMonth": 360,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 344,
+    "timeDay": 217,
+    "timeWeek": 351,
+    "timeMonth": 357,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-10-23": 0
+      "2025-10-23": 7
     }
   },
   {
@@ -509,18 +509,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 286,
     "timeDay": 237,
     "timeWeek": 271,
     "timeMonth": 293,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-10-23": 0
+      "2025-10-23": 7
     }
   },
   {
