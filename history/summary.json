@@ -313,27 +313,29 @@
     "url": "https://epilogue.video",
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.video.ico",
     "slug": "epilogue-video",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 486,
-    "timeWeek": 551,
-    "timeMonth": 583,
-    "timeYear": 605,
-    "dailyMinutesDown": {}
+    "time": 602,
+    "timeDay": 460,
+    "timeWeek": 536,
+    "timeMonth": 578,
+    "timeYear": 602,
+    "dailyMinutesDown": {
+      "2025-10-28": 0
+    }
   },
   {
     "name": "vod-eu.epilogue.video",
     "url": "https://vod-eu.epilogue.video",
     "icon": "https://icons.duckduckgo.com/ip3/vod-eu.epilogue.video.ico",
     "slug": "vod-eu-epilogue-video",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -342,7 +344,9 @@
     "timeWeek": 981,
     "timeMonth": 1081,
     "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 0
+    }
   },
   {
     "name": "eplg.cloud",
@@ -509,11 +513,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
     "status": "up",
-    "uptime": "90.18%",
-    "uptimeDay": "0.02%",
+    "uptime": "90.20%",
+    "uptimeDay": "12.07%",
     "uptimeWeek": "23.80%",
     "uptimeMonth": "82.47%",
-    "uptimeYear": "90.18%",
+    "uptimeYear": "90.20%",
     "time": 294,
     "timeDay": 743,
     "timeWeek": 420,
