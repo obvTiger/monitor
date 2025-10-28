@@ -314,18 +314,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.video.ico",
     "slug": "epilogue-video",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.94%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.94%",
     "time": 602,
     "timeDay": 460,
     "timeWeek": 536,
     "timeMonth": 578,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-10-28": 16
+      "2025-10-28": 49
     }
   },
   {
@@ -334,18 +334,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vod-eu.epilogue.video.ico",
     "slug": "vod-eu-epilogue-video",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.94%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.94%",
     "time": 1043,
     "timeDay": 795,
     "timeWeek": 981,
     "timeMonth": 1081,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-10-28": 16
+      "2025-10-28": 49
     }
   },
   {
@@ -513,11 +513,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
     "status": "up",
-    "uptime": "90.20%",
-    "uptimeDay": "13.16%",
+    "uptime": "90.21%",
+    "uptimeDay": "15.46%",
     "uptimeWeek": "23.80%",
     "uptimeMonth": "82.47%",
-    "uptimeYear": "90.20%",
+    "uptimeYear": "90.21%",
     "time": 294,
     "timeDay": 743,
     "timeWeek": 420,
@@ -629,19 +629,19 @@
     "url": "https://ziit.app/login",
     "icon": "https://icons.duckduckgo.com/ip3/ziit.app.ico",
     "slug": "ziit-app-external",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
     "time": 153,
-    "timeDay": 209,
-    "timeWeek": 177,
+    "timeDay": 192,
+    "timeWeek": 176,
     "timeMonth": 158,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-10-28": 0
+      "2025-10-28": 33
     }
   },
   {
