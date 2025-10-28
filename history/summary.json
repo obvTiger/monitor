@@ -314,18 +314,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.video.ico",
     "slug": "epilogue-video",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 602,
     "timeDay": 460,
     "timeWeek": 536,
     "timeMonth": 578,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-10-28": 0
+      "2025-10-28": 16
     }
   },
   {
@@ -334,18 +334,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vod-eu.epilogue.video.ico",
     "slug": "vod-eu-epilogue-video",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1043,
     "timeDay": 795,
     "timeWeek": 981,
     "timeMonth": 1081,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-10-28": 0
+      "2025-10-28": 16
     }
   },
   {
@@ -514,7 +514,7 @@
     "slug": "dev-gippity-chat",
     "status": "up",
     "uptime": "90.20%",
-    "uptimeDay": "12.07%",
+    "uptimeDay": "13.16%",
     "uptimeWeek": "23.80%",
     "uptimeMonth": "82.47%",
     "uptimeYear": "90.20%",
@@ -629,9 +629,9 @@
     "url": "https://ziit.app/login",
     "icon": "https://icons.duckduckgo.com/ip3/ziit.app.ico",
     "slug": "ziit-app-external",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -640,7 +640,9 @@
     "timeWeek": 177,
     "timeMonth": 158,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-28": 0
+    }
   },
   {
     "name": "pandadev.net (external)",
