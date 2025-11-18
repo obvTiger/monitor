@@ -245,19 +245,19 @@
     "url": "https://epilogue.team",
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.team.ico",
     "slug": "epilogue-team",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "88.20%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.84%",
-    "time": 761,
-    "timeDay": 624,
-    "timeWeek": 648,
-    "timeMonth": 715,
-    "timeYear": 761,
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.85%",
+    "time": 755,
+    "timeDay": 573,
+    "timeWeek": 616,
+    "timeMonth": 702,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2025-11-18": 170
+      "2025-11-18": 164
     }
   },
   {
@@ -348,11 +348,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.video.ico",
     "slug": "epilogue-video",
     "status": "up",
-    "uptime": "85.77%",
+    "uptime": "85.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "64.87%",
-    "uptimeYear": "85.77%",
+    "uptimeYear": "85.78%",
     "time": 536,
     "timeDay": 450,
     "timeWeek": 223,
@@ -379,11 +379,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vod-eu.epilogue.video.ico",
     "slug": "vod-eu-epilogue-video",
     "status": "up",
-    "uptime": "85.79%",
+    "uptime": "85.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "64.92%",
-    "uptimeYear": "85.79%",
+    "uptimeYear": "85.80%",
     "time": 930,
     "timeDay": 119,
     "timeWeek": 225,
@@ -448,18 +448,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eplg.services.ico",
     "slug": "eplg-services",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "88.20%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.85%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.85%",
     "time": 269,
     "timeDay": 257,
     "timeWeek": 248,
     "timeMonth": 272,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-11-18": 170
+      "2025-11-18": 164
     }
   },
   {
@@ -558,9 +558,9 @@
     "slug": "gippity-chat",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.60%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.85%",
     "time": 333,
     "timeDay": 334,
@@ -568,7 +568,7 @@
     "timeMonth": 322,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-11-18": 164
+      "2025-11-18": 158
     }
   },
   {
@@ -577,11 +577,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
     "status": "up",
-    "uptime": "92.73%",
+    "uptime": "92.74%",
     "uptimeDay": "87.48%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "82.05%",
-    "uptimeYear": "92.73%",
+    "uptimeYear": "92.74%",
     "time": 292,
     "timeDay": 229,
     "timeWeek": 246,
@@ -604,9 +604,9 @@
     "slug": "kvs-sh",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.60%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.85%",
     "time": 274,
     "timeDay": 234,
@@ -614,7 +614,7 @@
     "timeMonth": 254,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-11-18": 164
+      "2025-11-18": 158
     }
   },
   {
@@ -622,17 +622,17 @@
     "url": "https://merged.games",
     "icon": "https://icons.duckduckgo.com/ip3/merged.games.ico",
     "slug": "merged-games",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "98.43%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.85%",
-    "time": 323,
-    "timeDay": 282,
-    "timeWeek": 280,
-    "timeMonth": 279,
-    "timeYear": 323,
+    "time": 328,
+    "timeDay": 364,
+    "timeWeek": 321,
+    "timeMonth": 292,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-11-18": 158
     }
