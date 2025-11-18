@@ -1,7 +1,7 @@
 url: https://eplg.cloud
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2025-11-17T23:10:25.753Z
+status: down
+code: 500
+responseTime: 80
+lastUpdated: 2025-11-18T11:44:28.733Z
 startTime: 2025-09-04T12:07:28.418Z
 generator: Upptime <https://github.com/upptime/upptime>
