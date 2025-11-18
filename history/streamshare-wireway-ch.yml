@@ -1,7 +1,7 @@
 url: https://streamshare.wireway.ch
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2025-11-18T11:49:50.759Z
+status: down
+code: 500
+responseTime: 46
+lastUpdated: 2025-11-18T12:00:59.176Z
 startTime: 2025-09-04T12:07:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
