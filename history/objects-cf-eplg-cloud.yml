@@ -1,7 +1,7 @@
 url: https://objects-cf.eplg.cloud
-status: down
-code: 500
-responseTime: 146
-lastUpdated: 2025-11-18T11:37:19.059Z
+status: up
+code: 403
+responseTime: 517
+lastUpdated: 2025-11-18T14:39:01.430Z
 startTime: 2025-09-04T12:07:18.940Z
 generator: Upptime <https://github.com/upptime/upptime>
