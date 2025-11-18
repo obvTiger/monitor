@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wireway.ch.ico",
     "slug": "api-wireway-ch",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "93.55%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.93%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.93%",
     "time": 508,
     "timeDay": 399,
     "timeWeek": 459,
     "timeMonth": 507,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-11-18": 93
+      "2025-11-18": 80
     }
   },
   {
@@ -664,19 +664,19 @@
     "url": "https://gamma-1.merged.games",
     "icon": "https://icons.duckduckgo.com/ip3/gamma-1.merged.games.ico",
     "slug": "gamma-1-merged-games",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.85%",
-    "time": 551,
-    "timeDay": 684,
-    "timeWeek": 572,
-    "timeMonth": 585,
-    "timeYear": 551,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.83%",
+    "time": 552,
+    "timeDay": 665,
+    "timeWeek": 574,
+    "timeMonth": 586,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-11-18": 164
+      "2025-11-18": 180
     }
   },
   {
