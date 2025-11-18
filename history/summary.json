@@ -246,18 +246,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.team.ico",
     "slug": "epilogue-team",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "87.72%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.85%",
+    "uptimeDay": "88.62%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.85%",
     "time": 754,
     "timeDay": 591,
     "timeWeek": 625,
     "timeMonth": 703,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-11-18": 177
+      "2025-11-18": 164
     }
   },
   {
@@ -327,10 +327,10 @@
     "url": "https://emojify.epilogue.team",
     "icon": "https://icons.duckduckgo.com/ip3/emojify.epilogue.team.ico",
     "slug": "emojify-epilogue-team",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.24%",
-    "uptimeWeek": "98.32%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.84%",
     "time": 523,
@@ -339,7 +339,7 @@
     "timeMonth": 543,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2025-11-18": 169
+      "2025-11-18": 171
     }
   },
   {
@@ -409,19 +409,19 @@
     "url": "https://eplg.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/eplg.cloud.ico",
     "slug": "eplg-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "88.48%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.85%",
-    "time": 289,
-    "timeDay": 121,
-    "timeWeek": 163,
-    "timeMonth": 173,
-    "timeYear": 289,
+    "time": 369,
+    "timeDay": 1336,
+    "timeWeek": 767,
+    "timeMonth": 374,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-11-18": 164
+      "2025-11-18": 166
     }
   },
   {
@@ -447,19 +447,19 @@
     "url": "https://eplg.services",
     "icon": "https://icons.duckduckgo.com/ip3/eplg.services.ico",
     "slug": "eplg-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.61%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "88.48%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.85%",
-    "time": 269,
-    "timeDay": 257,
-    "timeWeek": 248,
-    "timeMonth": 272,
-    "timeYear": 269,
+    "time": 286,
+    "timeDay": 444,
+    "timeWeek": 349,
+    "timeMonth": 310,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-11-18": 164
+      "2025-11-18": 166
     }
   },
   {
@@ -576,9 +576,9 @@
     "url": "https://dev.gippity.chat",
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "92.74%",
-    "uptimeDay": "87.48%",
+    "uptimeDay": "87.45%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "82.05%",
     "uptimeYear": "92.74%",
@@ -623,18 +623,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/merged.games.ico",
     "slug": "merged-games",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "88.10%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.85%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.85%",
     "time": 328,
     "timeDay": 353,
     "timeWeek": 318,
     "timeMonth": 292,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-11-18": 171
+      "2025-11-18": 158
     }
   },
   {
@@ -704,19 +704,19 @@
     "url": "https://ziit.app/login",
     "icon": "https://icons.duckduckgo.com/ip3/ziit.app.ico",
     "slug": "ziit-app-external",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "87.81%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.80%",
-    "time": 156,
-    "timeDay": 166,
-    "timeWeek": 138,
-    "timeMonth": 166,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "87.09%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.79%",
+    "time": 155,
+    "timeDay": 153,
+    "timeWeek": 134,
+    "timeMonth": 164,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-11-18": 175,
+      "2025-11-18": 186,
       "2025-10-28": 33
     }
   },
