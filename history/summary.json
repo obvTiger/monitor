@@ -245,19 +245,19 @@
     "url": "https://epilogue.team",
     "icon": "https://icons.duckduckgo.com/ip3/epilogue.team.ico",
     "slug": "epilogue-team",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "88.20%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.84%",
     "time": 761,
-    "timeDay": 608,
-    "timeWeek": 641,
+    "timeDay": 624,
+    "timeWeek": 648,
     "timeMonth": 715,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-11-18": 165
+      "2025-11-18": 170
     }
   },
   {
@@ -447,19 +447,19 @@
     "url": "https://eplg.services",
     "icon": "https://icons.duckduckgo.com/ip3/eplg.services.ico",
     "slug": "eplg-services",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.85%",
-    "time": 270,
-    "timeDay": 259,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "88.20%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.84%",
+    "time": 269,
+    "timeDay": 257,
     "timeWeek": 248,
     "timeMonth": 272,
-    "timeYear": 270,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-11-18": 165
+      "2025-11-18": 170
     }
   },
   {
@@ -556,19 +556,19 @@
     "url": "https://gippity.chat",
     "icon": "https://icons.duckduckgo.com/ip3/gippity.chat.ico",
     "slug": "gippity-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.97%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.85%",
-    "time": 329,
-    "timeDay": 247,
-    "timeWeek": 255,
-    "timeMonth": 313,
-    "timeYear": 329,
+    "time": 333,
+    "timeDay": 334,
+    "timeWeek": 294,
+    "timeMonth": 322,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-11-18": 159
+      "2025-11-18": 164
     }
   },
   {
@@ -602,19 +602,19 @@
     "url": "https://kvs.sh",
     "icon": "https://icons.duckduckgo.com/ip3/kvs.sh.ico",
     "slug": "kvs-sh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.97%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.85%",
     "time": 274,
     "timeDay": 234,
-    "timeWeek": 239,
-    "timeMonth": 255,
+    "timeWeek": 238,
+    "timeMonth": 254,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-11-18": 158
+      "2025-11-18": 164
     }
   },
   {
