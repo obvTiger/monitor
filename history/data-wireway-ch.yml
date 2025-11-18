@@ -1,7 +1,7 @@
 url: https://data.wireway.ch
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2025-11-18T11:44:15.258Z
+status: down
+code: 500
+responseTime: 199
+lastUpdated: 2025-11-18T11:55:10.446Z
 startTime: 2025-09-04T12:07:15.895Z
 generator: Upptime <https://github.com/upptime/upptime>
