@@ -1,7 +1,7 @@
 url: https://cdn.wireway.ch
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2025-11-17T23:10:20.724Z
+status: down
+code: 500
+responseTime: 54
+lastUpdated: 2025-11-18T11:55:13.408Z
 startTime: 2025-09-04T12:07:21.389Z
 generator: Upptime <https://github.com/upptime/upptime>
