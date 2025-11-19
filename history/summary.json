@@ -430,10 +430,10 @@
     "url": "https://infra-ch-01-controller.eplg.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/infra-ch-01-controller.eplg.cloud.ico",
     "slug": "infra-ch-01-controller-eplg-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1364,
@@ -441,7 +441,9 @@
     "timeWeek": 1239,
     "timeMonth": 1316,
     "timeYear": 1364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-19": 1
+    }
   },
   {
     "name": "eplg.services",
@@ -468,9 +470,9 @@
     "url": "https://git.eplg.services",
     "icon": "https://icons.duckduckgo.com/ip3/git.eplg.services.ico",
     "slug": "git-eplg-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -479,7 +481,9 @@
     "timeWeek": 902,
     "timeMonth": 1357,
     "timeYear": 1239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "mcss-api.eplg.services",
@@ -578,11 +582,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.gippity.chat.ico",
     "slug": "dev-gippity-chat",
     "status": "up",
-    "uptime": "92.81%",
+    "uptime": "92.82%",
     "uptimeDay": "87.48%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "82.05%",
-    "uptimeYear": "92.81%",
+    "uptimeYear": "92.82%",
     "time": 290,
     "timeDay": 222,
     "timeWeek": 252,
@@ -686,18 +690,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.ziit.app.ico",
     "slug": "staging-ziit-app",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "34.30%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.08%",
+    "uptimeDay": "33.63%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.08%",
     "time": 166,
     "timeDay": 277,
     "timeWeek": 205,
     "timeMonth": 175,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-11-19": 687,
+      "2025-11-19": 697,
       "2025-11-18": 259
     }
   },
@@ -708,9 +712,9 @@
     "slug": "ziit-app-external",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "35.64%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "34.98%",
+    "uptimeWeek": "90.71%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.07%",
     "time": 166,
     "timeDay": 289,
@@ -718,7 +722,7 @@
     "timeMonth": 186,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-11-19": 687,
+      "2025-11-19": 697,
       "2025-11-18": 239,
       "2025-10-28": 33
     }
