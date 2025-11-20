@@ -79,12 +79,8 @@ sites:
     - 401
 - name: staging.ziit.app
   url: https://staging.ziit.app/login
-  expectedStatusCodes:
-    - 403
 - name: ziit.app (external)
   url: https://ziit.app/login
-  expectedStatusCodes:
-    - 403
 - name: pandadev.net (external)
   url: https://pandadev.net
 - name: waradu.dev (external)
