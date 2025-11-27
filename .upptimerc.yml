@@ -7,8 +7,6 @@ sites:
   url: https://wireway.ch
 - name: api.wireway.ch
   url: https://api.wireway.ch
-- name: pulse.wireway.ch
-  url: https://pulse.wireway.ch
 - name: repiped.wireway.ch
   url: https://repiped.wireway.ch
 - name: pipedapi.wireway.ch
@@ -33,18 +31,12 @@ sites:
   url: https://cdn.wireway.ch
 - name: epilogue.team
   url: https://epilogue.team
-- name: analytics.epilogue.team
-  url: https://analytics.epilogue.team
 - name: api.epilogue.team
   url: https://api.epilogue.team
 - name: auth.epilogue.team
   url: https://auth.epilogue.team
 - name: emojify.epilogue.team
   url: https://emojify.epilogue.team
-- name: epilogue.video
-  url: https://epilogue.video
-- name: vod-eu.epilogue.video
-  url: https://vod-eu.epilogue.video
 - name: eplg.cloud
   url: https://eplg.cloud
 - name: infra-ch-01-controller.eplg.cloud
