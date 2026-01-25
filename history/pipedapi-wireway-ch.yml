@@ -1,7 +1,7 @@
 url: https://pipedapi.wireway.ch
-status: down
-code: 530
-responseTime: 163
-lastUpdated: 2026-01-25T11:55:49.472Z
+status: up
+code: 200
+responseTime: 1028
+lastUpdated: 2026-01-25T12:20:00.971Z
 startTime: 2025-09-04T12:07:11.874Z
 generator: Upptime <https://github.com/upptime/upptime>
