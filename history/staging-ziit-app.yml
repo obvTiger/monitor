@@ -1,7 +1,7 @@
 url: https://staging.ziit.app/login
-status: down
-code: 503
-responseTime: 622
-lastUpdated: 2026-03-05T06:30:55.015Z
+status: up
+code: 200
+responseTime: 599
+lastUpdated: 2026-03-05T07:25:24.629Z
 startTime: 2025-09-08T08:51:38.815Z
 generator: Upptime <https://github.com/upptime/upptime>
