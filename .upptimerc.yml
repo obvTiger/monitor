@@ -59,8 +59,6 @@ sites:
   url: https://gamma-1.merged.games
   expectedStatusCodes:
     - 401
-- name: staging.ziit.app
-  url: https://staging.ziit.app/login
 - name: pandadev.net (external)
   url: https://pandadev.net
 - name: waradu.dev (external)
