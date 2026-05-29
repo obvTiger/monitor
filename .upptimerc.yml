@@ -23,12 +23,6 @@ sites:
   url: https://objects.eplg.cloud
   expectedStatusCodes:
     - 403
-- name: objects-cf.eplg.cloud
-  url: https://objects-cf.eplg.cloud
-  expectedStatusCodes:
-    - 403
-- name: cdn.wireway.ch
-  url: https://cdn.wireway.ch
 - name: epilogue.team
   url: https://epilogue.team
 - name: api.epilogue.team
@@ -55,10 +49,6 @@ sites:
   url: https://search.eplg.services
 - name: gippity.chat
   url: https://gippity.chat
-- name: dev.gippity.chat
-  url: https://dev.gippity.chat
-- name: kvs.sh
-  url: https://kvs.sh
 - name: merged.games
   url: https://merged.games
 - name: beta-1.merged.games
@@ -71,8 +61,6 @@ sites:
     - 401
 - name: staging.ziit.app
   url: https://staging.ziit.app/login
-- name: ziit.app (external)
-  url: https://ziit.app/login
 - name: pandadev.net (external)
   url: https://pandadev.net
 - name: waradu.dev (external)
