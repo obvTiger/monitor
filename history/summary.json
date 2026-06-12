@@ -242,10 +242,10 @@
     "url": "https://data.wireway.ch",
     "icon": "https://icons.duckduckgo.com/ip3/data.wireway.ch.ico",
     "slug": "data-wireway-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 392,
@@ -255,7 +255,8 @@
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-11-18": 87,
-      "2026-03-23": 63
+      "2026-03-23": 63,
+      "2026-06-12": 1
     }
   },
   {
@@ -264,11 +265,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/objects.eplg.cloud.ico",
     "slug": "objects-eplg-cloud",
     "status": "up",
-    "uptime": "67.82%",
+    "uptime": "67.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.69%",
-    "uptimeYear": "67.82%",
+    "uptimeMonth": "44.25%",
+    "uptimeYear": "67.87%",
     "time": 563,
     "timeDay": 336,
     "timeWeek": 408,
