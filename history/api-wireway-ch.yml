@@ -1,7 +1,7 @@
 url: https://api.wireway.ch
-status: up
-code: 200
-responseTime: 563
-lastUpdated: 2026-08-07T23:23:21.707Z
+status: down
+code: 530
+responseTime: 24
+lastUpdated: 2026-08-08T06:00:26.831Z
 startTime: 2025-09-04T12:07:09.340Z
 generator: Upptime <https://github.com/upptime/upptime>
