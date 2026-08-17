@@ -108,15 +108,15 @@
     "url": "https://pipedapi.wireway.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.wireway.ch.ico",
     "slug": "pipedapi-wireway-ch",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "98.29%",
     "time": 1022,
-    "timeDay": 631,
-    "timeWeek": 941,
+    "timeDay": 731,
+    "timeWeek": 940,
     "timeMonth": 911,
     "timeYear": 1022,
     "dailyMinutesDown": {
@@ -146,7 +146,7 @@
       "2026-08-06": 996,
       "2026-08-05": 192,
       "2026-08-07": 1180,
-      "2026-08-17": 1
+      "2026-08-17": 65
     }
   },
   {
