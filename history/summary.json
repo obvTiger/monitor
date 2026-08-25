@@ -110,7 +110,7 @@
     "slug": "pipedapi-wireway-ch",
     "status": "up",
     "uptime": "96.64%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "9.28%",
     "uptimeWeek": "14.67%",
     "uptimeMonth": "74.67%",
     "uptimeYear": "96.64%",
@@ -680,16 +680,16 @@
     "url": "https://mcss-api.eplg.services",
     "icon": "https://icons.duckduckgo.com/ip3/mcss-api.eplg.services.ico",
     "slug": "mcss-api-eplg-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.25%",
     "time": 497,
-    "timeDay": 320,
-    "timeWeek": 472,
-    "timeMonth": 484,
+    "timeDay": 363,
+    "timeWeek": 464,
+    "timeMonth": 482,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2025-10-02": 696,
@@ -708,7 +708,8 @@
       "2026-05-06": 33,
       "2026-05-14": 791,
       "2026-05-13": 10,
-      "2026-08-08": 25
+      "2026-08-08": 25,
+      "2026-08-25": 1
     }
   },
   {
