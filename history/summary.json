@@ -109,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.wireway.ch.ico",
     "slug": "pipedapi-wireway-ch",
     "status": "down",
-    "uptime": "96.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptime": "96.72%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "79.55%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.69%",
     "time": 1098,
     "timeDay": 1612,
     "timeWeek": 1102,
@@ -155,7 +155,7 @@
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
-      "2026-09-07": 0
+      "2026-09-07": 216
     }
   },
   {
@@ -163,15 +163,15 @@
     "url": "https://piped.wireway.ch",
     "icon": "https://icons.duckduckgo.com/ip3/piped.wireway.ch.ico",
     "slug": "piped-wireway-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "98.35%",
     "time": 240,
-    "timeDay": 128,
-    "timeWeek": 351,
+    "timeDay": 226,
+    "timeWeek": 348,
     "timeMonth": 343,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -200,7 +200,8 @@
       "2026-08-05": 191,
       "2026-08-07": 1180,
       "2026-08-18": 22,
-      "2026-08-19": 220
+      "2026-08-19": 220,
+      "2026-09-07": 0
     }
   },
   {
@@ -300,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/objects.eplg.cloud.ico",
     "slug": "objects-eplg-cloud",
     "status": "up",
-    "uptime": "75.47%",
+    "uptime": "75.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
