@@ -15,10 +15,6 @@ sites:
   url: https://piped.wireway.ch
 - name: streamshare.wireway.ch
   url: https://streamshare.wireway.ch
-- name: plausible.wireway.ch
-  url: https://plausible.wireway.ch
-- name: data.wireway.ch
-  url: https://data.wireway.ch
 - name: objects.eplg.cloud
   url: https://objects.eplg.cloud
   expectedStatusCodes:
