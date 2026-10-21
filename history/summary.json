@@ -243,7 +243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/objects.eplg.cloud.ico",
     "slug": "objects-eplg-cloud",
     "status": "up",
-    "uptime": "78.08%",
+    "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -519,17 +519,17 @@
     "url": "https://infra-ch-01-controller.eplg.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/infra-ch-01-controller.eplg.cloud.ico",
     "slug": "infra-ch-01-controller-eplg-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 1051,
-    "timeDay": 935,
-    "timeWeek": 1199,
-    "timeMonth": 1178,
-    "timeYear": 1000,
+    "timeDay": 776,
+    "timeWeek": 1134,
+    "timeMonth": 1161,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-11-19": 36,
       "2025-11-29": 16,
@@ -549,7 +549,8 @@
       "2026-02-22": 22,
       "2026-03-01": 48,
       "2026-03-02": 102,
-      "2026-05-06": 72
+      "2026-05-06": 72,
+      "2026-10-21": 1
     }
   },
   {
@@ -691,11 +692,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.eplg.services.ico",
     "slug": "search-eplg-services",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.50%",
+    "uptimeDay": "78.92%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.44%",
     "time": 643,
     "timeDay": 353,
     "timeWeek": 520,
@@ -717,7 +718,7 @@
       "2026-03-02": 1303,
       "2026-03-01": 23,
       "2026-05-06": 67,
-      "2026-10-21": 1
+      "2026-10-21": 304
     }
   },
   {
