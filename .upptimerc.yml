@@ -41,8 +41,6 @@ sites:
     - 404
 - name: mcss.eplg.services
   url: https://mcss.eplg.services
-- name: search.eplg.services
-  url: https://search.eplg.services
 - name: gippity.chat
   url: https://gippity.chat
 - name: merged.games
