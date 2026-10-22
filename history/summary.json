@@ -243,7 +243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/objects.eplg.cloud.ico",
     "slug": "objects-eplg-cloud",
     "status": "up",
-    "uptime": "78.12%",
+    "uptime": "78.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -401,10 +401,10 @@
     "url": "https://api.epilogue.team",
     "icon": "https://icons.duckduckgo.com/ip3/api.epilogue.team.ico",
     "slug": "api-epilogue-team",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 571,
@@ -424,7 +424,8 @@
       "2026-04-10": 51,
       "2026-05-06": 77,
       "2026-06-26": 61,
-      "2026-08-08": 51
+      "2026-08-08": 51,
+      "2026-10-22": 1
     }
   },
   {
@@ -462,10 +463,10 @@
     "url": "https://emojify.epilogue.team",
     "icon": "https://icons.duckduckgo.com/ip3/emojify.epilogue.team.ico",
     "slug": "emojify-epilogue-team",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 526,
@@ -482,7 +483,8 @@
       "2026-04-02": 54,
       "2026-05-06": 77,
       "2026-06-26": 60,
-      "2026-08-08": 51
+      "2026-08-08": 51,
+      "2026-10-22": 1
     }
   },
   {
