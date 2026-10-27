@@ -15,44 +15,20 @@ sites:
   url: https://piped.wireway.ch
 - name: streamshare.wireway.ch
   url: https://streamshare.wireway.ch
-- name: objects.eplg.cloud
-  url: https://objects.eplg.cloud
-  expectedStatusCodes:
-    - 403
 - name: epilogue.team
   url: https://epilogue.team
-- name: api.epilogue.team
-  url: https://api.epilogue.team
 - name: auth.epilogue.team
   url: https://auth.epilogue.team
-- name: emojify.epilogue.team
-  url: https://emojify.epilogue.team
-- name: eplg.cloud
-  url: https://eplg.cloud
-- name: infra-ch-01-controller.eplg.cloud
-  url: https://infra-ch-01-controller.eplg.cloud
 - name: eplg.services
   url: https://eplg.services
 - name: git.eplg.services
   url: https://git.eplg.services
-- name: mcss-api.eplg.services
-  url: https://mcss-api.eplg.services
   expectedStatusCodes:
     - 404
 - name: mcss.eplg.services
   url: https://mcss.eplg.services
-- name: gippity.chat
-  url: https://gippity.chat
 - name: merged.games
   url: https://merged.games
-- name: beta-1.merged.games
-  url: https://beta-1.merged.games
-  expectedStatusCodes:
-    - 401
-- name: gamma-1.merged.games
-  url: https://gamma-1.merged.games
-  expectedStatusCodes:
-    - 401
 - name: pandadev.net (external)
   url: https://pandadev.net
 - name: waradu.dev (external)
