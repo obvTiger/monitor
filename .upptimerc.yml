@@ -5,8 +5,6 @@ repo: monitor # The name of this repository
 sites:
 - name: wireway.ch
   url: https://wireway.ch
-- name: api.wireway.ch
-  url: https://api.wireway.ch
 - name: repiped.wireway.ch
   url: https://repiped.wireway.ch
 - name: pipedapi.wireway.ch
