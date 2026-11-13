@@ -21,8 +21,6 @@ sites:
   url: https://eplg.services
 - name: git.eplg.services
   url: https://git.eplg.services
-  expectedStatusCodes:
-    - 404
 - name: mcss.eplg.services
   url: https://mcss.eplg.services
 - name: merged.games
